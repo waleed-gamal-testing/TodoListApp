@@ -37,6 +37,10 @@ Automation testing is implemented using **Selenium**, **TestNG**, and **Maven**,
    - make Objects 
 
 ---
+## Video
+**Video link for the project:**https://youtu.be/XnD-K_moWzk
+
+---
 
 ## Project Structure
 ```
